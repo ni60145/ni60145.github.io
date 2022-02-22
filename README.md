@@ -12,7 +12,7 @@ You can listen to the [Dangerous Woman Album](https://www.youtube.com/playlist?l
 
 You can listen to the [Sweetener Album](https://youtube.com/playlist?list=OLAK5uy_kvi6xfWSkfUFjGtPHjvxuOcNsdnIlSUr8) and enjoy her music!
 
-'R. E. M.' is my favorite song in this album. She made a beauty line about it, 'rem beauty'. She also made a fragrance, 'R.E.M. Eau de Parfum'. As of February 22, 2022, it has 28 million views.     
+'R. E. M.' is my favorite song in this album. She recently made a beauty line about it, ['rem beauty'](https://rembeauty.com/). She also made a fragrance, ['R.E.M. Eau de Parfum'](http://ArianaGrande.lnk.to/remfragrance). As of February 22, 2022, it has 28 million views.     
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AVPEP_KSldA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
