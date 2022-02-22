@@ -41,24 +41,24 @@ You can listen to the [Sweetener Album](https://youtube.com/playlist?list=OLAK5u
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AVPEP_KSldA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# Dangerous Woman 
+# thank u, next 
 ### by Ariana Grande
 
-You can listen to the [Dangerous Woman Album](https://www.youtube.com/playlist?list=OLAK5uy_nVnvW2WNXgkuDNaMYBOW3qm-1BX7Hira8) on YouTube and enjoy her music!
+You can listen to the [thank u, next](https://youtube.com/playlist?list=PLT5kE8dBKiP4VP9fyjKwb3KtuyScCs8-6) on YouTube and enjoy her music!
 
-'Sometimes' is my favorite song in this album. I think it's the best and the most underrated song in the album. As of February 22, 2022, it only has 964k views.     
+'ghostin' is my favorite song in this album. In this song, she's saying a thank you to pete davidson for his understanding of mac's passing. If you didn't know already, ariana had to break off her engagement with pete because she still loved mac, her ex boyfriend who she still had love for, but he passed. She is saying she knows it breaks his heart when she cries again over mac. but she is also saying that she can't get over mac, therefore she and pete needed to break up, because she knew her truest love was gone. As of February 22, 2022, it only has 31 million views.     
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4yr6KzidJs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1pmpDRrQhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# Sweetener 
+# Positions 
 ### by Ariana Grande
 
-You can listen to the [Sweetener Album](https://youtube.com/playlist?list=OLAK5uy_kvi6xfWSkfUFjGtPHjvxuOcNsdnIlSUr8) on YouTube and enjoy her music!
+You can listen to the [Positions](https://youtube.com/playlist?list=OLAK5uy_mI1LaRKdjRV-QCXbqdSLwRgG7vHthQgnQ) or [Positions (Deluxe)](https://youtube.com/playlist?list=PLOhV0FrFphUfqGwo2tgfrB_ghmAhmaR8c) on YouTube and enjoy her music!
 
-'R.E.M.' is my favorite song in this album. She recently made a beauty line from it, ['rem beauty'](https://rembeauty.com/). She also made a fragrance, ['R.E.M. Eau de Parfum'](http://ArianaGrande.lnk.to/remfragrance). As of February 22, 2022, it has 28 million views.     
+'Positions' is my favorite song in this album. This song is so addictive, I listen to this almost every day and it never gets old. Her outfits in the music video looks so good on her. As of February 22, 2022, it has 413 million views.     
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AVPEP_KSldA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tcYodQoapMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Markdown
