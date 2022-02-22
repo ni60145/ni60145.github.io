@@ -1,4 +1,5 @@
 **# Ariana Grande Albums**
+
 I am a fan of Ariana Grande since I don't know when. She is one of my favorite female artists out there and her songs are always a bop. I listen to her songs every day. I wish that she would have a concert here in the Philippines after the pandemic. She is currently taking a break from making music but I hope she would continue to make more music and I hope she wouldn't end up like Rihanna. Anyway, here are some of her albums and my favorite songs from her albums;
 
 
@@ -67,24 +68,13 @@ You can listen to the [Positions Album](https://youtube.com/playlist?list=OLAK5u
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tcYodQoapMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Mrs. Ariana Grande started her music career at the age of 15 on 2008. She has come a long way from then to now. She has inspired many and is still continuing to today. I hope that she will be rested to make music again in the future. 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## She is available on these apps;
+- [Youtube](https://www.youtube.com/channel/UC9CoOnJkIBMdeijd9qYoT_g)
+- [Facebook](https://www.facebook.com/arianagrande)
+- [Instagram](https://www.instagram.com/arianagrande/?hl=en)
+- [Tiktok](https://www.tiktok.com/@arianagrande?lang=en)
+- [Spotify](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR)
+- 
