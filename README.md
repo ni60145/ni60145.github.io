@@ -1,6 +1,6 @@
 # Ariana Grande Albums
 
-I am a fan of Ariana Grande since I don't know when. She is one of my favorite female artists out there and her songs are always a bop. I listen to her songs every day. I wish that she would have a concert here in the Philippines after the pandemic. She is currently taking a break from making music but I hope she would continue to make more music and I hope she wouldn't end up like Rihanna. Anyway, here are some of her albums and my favorite songs from her albums;
+I have been a fan of Ariana Grande since I don't know when. She is one of my favorite female artists out there and her songs are always a bop. I listen to her songs every day. I wish that she would have a concert here in the Philippines after the pandemic. She is currently taking a break from making music but I hope she would continue to make more music and I hope she wouldn't end up like Rihanna. Anyway, here are some of her albums and my favorite songs from her albums;
 
 
 ## Yours Truly 
