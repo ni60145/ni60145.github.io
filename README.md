@@ -3,9 +3,19 @@
 
 You can listen to the [Dangerous Woman Album](https://www.youtube.com/playlist?list=OLAK5uy_nVnvW2WNXgkuDNaMYBOW3qm-1BX7Hira8) and enjoy her music!
 
-'Sometimes' is my favorite song in the album. I think it's the best and the most underrated song in the album. As of February 22, 2022, it only has 964k views.     
+'Sometimes' is my favorite song in this album. I think it's the best and the most underrated song in the album. As of February 22, 2022, it only has 964k views.     
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4yr6KzidJs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Sweetener Album 
+### by Ariana Grande
+
+You can listen to the [Sweetener Album](https://youtube.com/playlist?list=OLAK5uy_kvi6xfWSkfUFjGtPHjvxuOcNsdnIlSUr8) and enjoy her music!
+
+'R. E. M.' is my favorite song in this album. She made a beauty line about it, 'rem beauty'. She also made a fragrance, 'R.E.M. Eau de Parfum'. As of February 22, 2022, it has 28 million views.     
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AVPEP_KSldA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Markdown
 
@@ -28,13 +38,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ni60145/ni60145.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
