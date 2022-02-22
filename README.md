@@ -1,7 +1,7 @@
 # Ariana Grande Albums
 I am a fan of Ariana Grande since I don't know when. She is one of my favorite female artists out there and her songs are always a bop. I listen to her songs every day. I wish that she would have a concert here in the Philippines after the pandemic. She is currently taking a break from making music but I hope she would continue to make more music and I hope she wouldn't end up like Rihanna. Anyway, here are some of her albums and my favorite songs from her albums;
 
-# Yours Truly 
+## Yours Truly 
 ### by Ariana Grande
 
 You can listen to the [Yours Truly Album](https://www.youtube.com/playlist?list=OLAK5uy_kNoCOQMMgb8TrlcSbZClOMvKEP10A0nPs) on YouTube and enjoy her music!
@@ -11,7 +11,7 @@ You can listen to the [Yours Truly Album](https://www.youtube.com/playlist?list=
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_sV0S8qWSy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# My Everything 
+## My Everything 
 ### by Ariana Grande
 
 You can listen to the [My Everything Album](https://youtube.com/playlist?list=OLAK5uy_lcAQW0bAGPBo6D-NxZt37-Zh7DPfQb96g) on YouTube and enjoy her music!
@@ -21,7 +21,7 @@ You can listen to the [My Everything Album](https://youtube.com/playlist?list=OL
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iS1g8G_njx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# Dangerous Woman 
+## Dangerous Woman 
 ### by Ariana Grande
 
 You can listen to the [Dangerous Woman Album](https://www.youtube.com/playlist?list=OLAK5uy_nVnvW2WNXgkuDNaMYBOW3qm-1BX7Hira8) on YouTube and enjoy her music!
@@ -31,7 +31,7 @@ You can listen to the [Dangerous Woman Album](https://www.youtube.com/playlist?l
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4yr6KzidJs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# Sweetener 
+## Sweetener 
 ### by Ariana Grande
 
 You can listen to the [Sweetener Album](https://youtube.com/playlist?list=OLAK5uy_kvi6xfWSkfUFjGtPHjvxuOcNsdnIlSUr8) on YouTube and enjoy her music!
@@ -41,7 +41,7 @@ You can listen to the [Sweetener Album](https://youtube.com/playlist?list=OLAK5u
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AVPEP_KSldA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# thank u, next 
+## thank u, next 
 ### by Ariana Grande
 
 You can listen to the [thank u, next](https://youtube.com/playlist?list=PLT5kE8dBKiP4VP9fyjKwb3KtuyScCs8-6) on YouTube and enjoy her music!
@@ -51,7 +51,7 @@ You can listen to the [thank u, next](https://youtube.com/playlist?list=PLT5kE8d
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z1pmpDRrQhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# Positions 
+## Positions 
 ### by Ariana Grande
 
 You can listen to the [Positions](https://youtube.com/playlist?list=OLAK5uy_mI1LaRKdjRV-QCXbqdSLwRgG7vHthQgnQ) or [Positions (Deluxe)](https://youtube.com/playlist?list=PLOhV0FrFphUfqGwo2tgfrB_ghmAhmaR8c) on YouTube and enjoy her music!
