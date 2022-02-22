@@ -1,4 +1,4 @@
-# Dangerous Woman Album 
+# Dangerous Woman 
 ### by Ariana Grande
 
 You can listen to the [Dangerous Woman Album](https://www.youtube.com/playlist?list=OLAK5uy_nVnvW2WNXgkuDNaMYBOW3qm-1BX7Hira8) and enjoy her music!
@@ -7,7 +7,7 @@ You can listen to the [Dangerous Woman Album](https://www.youtube.com/playlist?l
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4yr6KzidJs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Sweetener Album 
+# Sweetener 
 ### by Ariana Grande
 
 You can listen to the [Sweetener Album](https://youtube.com/playlist?list=OLAK5uy_kvi6xfWSkfUFjGtPHjvxuOcNsdnIlSUr8) and enjoy her music!
