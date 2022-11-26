@@ -58,12 +58,12 @@ You can listen to the [thank u, next](https://youtube.com/playlist?list=PLT5kE8d
 
 
 
-## Positions 
+## positions 
 ### by Ariana Grande
 
 You can listen to the [Positions Album](https://youtube.com/playlist?list=OLAK5uy_mI1LaRKdjRV-QCXbqdSLwRgG7vHthQgnQ) or [Positions Album (Deluxe)](https://youtube.com/playlist?list=PLOhV0FrFphUfqGwo2tgfrB_ghmAhmaR8c) on YouTube and enjoy her music!
 
-**'Positions'** is my favorite song in this album. All of her songs are addictive, but this one is the most addictive. I listen to this almost every day and it never gets old. Her outfits in the music video looks so good on her. As of February 22, 2022, it has 413 million views.     
+**'positions'** is my favorite song in this album. All of her songs are addictive, but this one is the most addictive. I listen to this almost every day and it never gets old. Her outfits in the music video looks so good on her. As of February 22, 2022, it has 413 million views.     
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tcYodQoapMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
